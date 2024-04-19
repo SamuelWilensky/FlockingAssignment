@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Flocking.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\FlockingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\Agent.gen.cpp.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\Flocking.init.gen.cpp.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\FlockingGameModeBase.gen.cpp.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\FlockingManager.gen.cpp.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\Agent.cpp.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\Flocking.cpp.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\FlockingGameModeBase.cpp.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\FlockingManager.cpp.obj"
+"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\Default.rc2.res"
+/OUT:"C:\Users\Toby Wilensky\Documents\Unreal Projects\FlockingAssignment\Flocking\Intermediate\Build\Win64\x64\UnrealEditor\Development\Flocking\UnrealEditor-Flocking.lib"

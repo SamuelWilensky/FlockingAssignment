@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Flocking.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Flocking.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FlockingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Flocking">
+      <UniqueIdentifier>{8EA5EC0E-C257-370C-848F-5A87DCFD1748}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Flocking\Agent.cpp">
+      <Filter>Source\Flocking</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Flocking\Agent.h">
+      <Filter>Source\Flocking</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Flocking\Flocking.Build.cs">
+      <Filter>Source\Flocking</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Flocking\Flocking.cpp">
+      <Filter>Source\Flocking</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Flocking\Flocking.h">
+      <Filter>Source\Flocking</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Flocking\FlockingGameModeBase.cpp">
+      <Filter>Source\Flocking</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Flocking\FlockingGameModeBase.h">
+      <Filter>Source\Flocking</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Flocking\FlockingManager.cpp">
+      <Filter>Source\Flocking</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Flocking\FlockingManager.h">
+      <Filter>Source\Flocking</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

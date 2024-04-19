@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\toby wilensky\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\unrealeditor\\inc\\flocking\\uht\\flockinggamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\toby wilensky\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\x64\\flockingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\toby wilensky\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\flocking\\definitions.flocking.h",
+            "c:\\users\\toby wilensky\\documents\\unreal projects\\flocking\\source\\flocking\\flockinggamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\toby wilensky\\documents\\unreal projects\\flocking\\intermediate\\build\\win64\\unrealeditor\\inc\\flocking\\uht\\flockinggamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
